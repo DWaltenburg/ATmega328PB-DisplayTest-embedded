@@ -43,6 +43,9 @@ static volatile uint32_t NumberOfTimerInterrupts = 0;
 static volatile uint16_t NumberOfExternalInterruptsOnPin0 = 0;
 static volatile uint16_t NumberOfExternalInterruptsOnPin0FromCallback = 0;
 
+char TimerCounterString[6];
+char InterruptCounterString[6];
+
 void TreatUartReceivedCharAccordingToState(char InputChar)
 {
     
@@ -103,11 +106,7 @@ void ExternalInterruptFunction_0(uint16_t NumberOfExternalInterruptsOnPin0FromCa
 	PrintOutInfo = true;
 }
 
-int main(void)
-{
-    char TimerCounterString[6];
-    char InterruptCounterString[6];
-    
+int setup(void){
 	AttachAndEnableExternalInterrupt(EXTERNAL_INTERRUPT_0, ExternalInterruptFunction_0, FALLING_EDGE_GENERATE_INTERRUPT);
     
 	DDRB |= YellowLedBitValue;
@@ -200,36 +199,32 @@ int main(void)
     
     Setup_Timer0_Overflow_Interrupt(VariableValue1SecValue8Bit, ReceiveTimerSecondsValue);
 	Enable_Timer0_Overflow_Interrupt();
-		
-//    I2CDisplayStatusOperation = SSD1306_ClearScreen();
-//    I2CDisplayStatusOperation = SSD1306_SetPosition(XCoordinateStartPositionInDisplay, AddressLineInDisplay);
-//    I2CDisplayStatusOperation = SSD1306_DrawString("h4pd011125 styrer !!!", NORMAL);
     
+}
+
+int main(void){
+    setup();
 	/* Replace with your application code */
     while (1) 
     {
 		if (true == PrintOutInfo)
         {
-            PrintOutInfo = false;  
+            PrintOutInfo = false;
+            // Write timer interrupt on line 2 on Display
             I2CDisplayStatusOperation = SSD1306_SetPosition(XCoordinateStartPositionInDisplay, AddressLineInDisplay + 2);
-            TestI2CDisplayStatus(I2CDisplayStatusOperation);
             
             sprintf(TimerCounterString, "%d", NumberOfTimerInterrupts);
             I2CDisplayStatusOperation = SSD1306_DrawString(TimerCounterString, NORMAL);
 
-            TestI2CDisplayStatus(I2CDisplayStatusOperation);
-            
+            // Write interrupt from button connected to pin D2 on line 3 on Display
             I2CDisplayStatusOperation = SSD1306_SetPosition(XCoordinateStartPositionInDisplay, AddressLineInDisplay + 3);
             
-            TestI2CDisplayStatus(I2CDisplayStatusOperation);
-
             sprintf(InterruptCounterString,"%d", NumberOfExternalInterruptsOnPin0);
             I2CDisplayStatusOperation = SSD1306_DrawString(InterruptCounterString, NORMAL);
             
-            TestI2CDisplayStatus(I2CDisplayStatusOperation);
+            // Write values to console. Visible in Hercules and XCTU
             printf("TimerCounter : %d\n", NumberOfTimerInterrupts);
-            
-            
+            printf("InterruptCounter : %s\n", NumberOfExternalInterruptsOnPin0);
         }
     }
 }

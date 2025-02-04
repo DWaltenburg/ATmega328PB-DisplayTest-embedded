@@ -1,9 +1,9 @@
 Archive member included to satisfy reference by file (symbol)
 
 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
-                              build/DebugWire/production/ssd1306.o (__ltsf2)
+                              build/DebugWire/debug/ssd1306.o (__ltsf2)
 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
-                              build/DebugWire/production/ssd1306.o (__fixunssfsi)
+                              build/DebugWire/debug/ssd1306.o (__fixunssfsi)
 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
                               c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
@@ -11,9 +11,9 @@ c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../av
 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
                               c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o) (__fp_zero)
 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
-                              build/DebugWire/production/ssd1306.o (__gtsf2)
+                              build/DebugWire/debug/ssd1306.o (__gtsf2)
 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
-                              build/DebugWire/production/ssd1306.o (__mulsf3)
+                              build/DebugWire/debug/ssd1306.o (__mulsf3)
 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
                               c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
@@ -27,15 +27,15 @@ c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../av
 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
                               c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__fp_round)
 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
-                              build/DebugWire/production/main.o (__do_copy_data)
+                              build/DebugWire/debug/main.o (__do_copy_data)
 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
                               C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega328pb.o (exit)
 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__sio_printf_dosux.o)
-                              build/DebugWire/production/main.o (_printf_cdopsuxX)
+                              build/DebugWire/debug/main.o (_printf_cdopsuxX)
 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__sio_printf_doux.o)
-                              build/DebugWire/production/main.o (_printf_cdopuxX)
+                              build/DebugWire/debug/main.o (_printf_cdopuxX)
 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__sio_sprintf_doux.o)
-                              build/DebugWire/production/main.o (_sprintf_cdopuxX)
+                              build/DebugWire/debug/main.o (_sprintf_cdopuxX)
 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_d.o)
                               c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__sio_printf_dosux.o) (__fmt_d_needed)
 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_o.o)
@@ -53,9 +53,9 @@ c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../av
 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
                               c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o) (fputc)
 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(puts.o)
-                              build/DebugWire/production/main.o (puts)
+                              build/DebugWire/debug/main.o (puts)
 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(stdout.o)
-                              build/DebugWire/production/UART.o (_stdout)
+                              build/DebugWire/debug/UART.o (_stdout)
 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strlen.o)
                               c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_s.o) (strlen)
 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(tolower.o)
@@ -93,135 +93,135 @@ Discarded input sections
 
  .data          0x0000000000000000        0x0 C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega328pb.o
  .bss           0x0000000000000000        0x0 C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega328pb.o
- .text          0x0000000000000000        0x0 build/DebugWire/production/main.o
- .data          0x0000000000000000        0x0 build/DebugWire/production/main.o
- .bss           0x0000000000000000        0x0 build/DebugWire/production/main.o
+ .text          0x0000000000000000        0x0 build/DebugWire/debug/main.o
+ .data          0x0000000000000000        0x0 build/DebugWire/debug/main.o
+ .bss           0x0000000000000000        0x0 build/DebugWire/debug/main.o
  progmem.data.FONTS
-                0x0000000000000000      0x1e0 build/DebugWire/production/main.o
+                0x0000000000000000      0x1e0 build/DebugWire/debug/main.o
  .bss.DisplaySetupTimeInRAM
-                0x0000000000000000        0x1 build/DebugWire/production/main.o
+                0x0000000000000000        0x1 build/DebugWire/debug/main.o
  .bss.ExternalInterruptLockoutTimeInRAM
-                0x0000000000000000        0x1 build/DebugWire/production/main.o
+                0x0000000000000000        0x1 build/DebugWire/debug/main.o
  .bss.GoBackToInitStateOnTypeErrorsInRAM
-                0x0000000000000000        0x1 build/DebugWire/production/main.o
+                0x0000000000000000        0x1 build/DebugWire/debug/main.o
  .data.StateMachineState
-                0x0000000000000000        0x1 build/DebugWire/production/main.o
+                0x0000000000000000        0x1 build/DebugWire/debug/main.o
  .bss.ThisAddressStruct
-                0x0000000000000000       0x15 build/DebugWire/production/main.o
+                0x0000000000000000       0x15 build/DebugWire/debug/main.o
  .bss.ThisDisplayTimeSetupTimeStruct
-                0x0000000000000000        0x4 build/DebugWire/production/main.o
+                0x0000000000000000        0x4 build/DebugWire/debug/main.o
  .bss.ThisExternalInterruptLockoutTimeStruct
-                0x0000000000000000        0x4 build/DebugWire/production/main.o
+                0x0000000000000000        0x4 build/DebugWire/debug/main.o
  .data.I2CAddress
-                0x0000000000000000        0x1 build/DebugWire/production/main.o
+                0x0000000000000000        0x1 build/DebugWire/debug/main.o
  .bss.I2CDisplayStatus
-                0x0000000000000000        0x1 build/DebugWire/production/main.o
+                0x0000000000000000        0x1 build/DebugWire/debug/main.o
  .bss.I2CDisplayErrorFound
-                0x0000000000000000        0x1 build/DebugWire/production/main.o
+                0x0000000000000000        0x1 build/DebugWire/debug/main.o
  .bss.DisplayStartUpWaitTime
-                0x0000000000000000        0x1 build/DebugWire/production/main.o
+                0x0000000000000000        0x1 build/DebugWire/debug/main.o
  .bss.DisplayErrorTestTimeout
-                0x0000000000000000        0x1 build/DebugWire/production/main.o
+                0x0000000000000000        0x1 build/DebugWire/debug/main.o
  .bss.NumberOfExternalInterruptsOnPin0FromCallback
-                0x0000000000000000        0x2 build/DebugWire/production/main.o
+                0x0000000000000000        0x2 build/DebugWire/debug/main.o
  .text.TreatUartReceivedCharAccordingToState
-                0x0000000000000000       0x16 build/DebugWire/production/main.o
+                0x0000000000000000       0x16 build/DebugWire/debug/main.o
  .text.ReceiveTimeOutValueCounterInit
-                0x0000000000000000       0x7c build/DebugWire/production/main.o
+                0x0000000000000000       0x7c build/DebugWire/debug/main.o
  .text.ReceiveTimeoutValueErrorTest
-                0x0000000000000000       0x2a build/DebugWire/production/main.o
+                0x0000000000000000       0x2a build/DebugWire/debug/main.o
  .text.ReceiveTimerSecondsValue
-                0x0000000000000000       0x42 build/DebugWire/production/main.o
+                0x0000000000000000       0x42 build/DebugWire/debug/main.o
  .text.PrintDisplayCodeOnUART
-                0x0000000000000000       0x76 build/DebugWire/production/main.o
+                0x0000000000000000       0x76 build/DebugWire/debug/main.o
  .text.TestI2CDisplayStatus
-                0x0000000000000000       0x22 build/DebugWire/production/main.o
+                0x0000000000000000       0x22 build/DebugWire/debug/main.o
  .text.ExternalInterruptFunction_0
-                0x0000000000000000       0x3e build/DebugWire/production/main.o
- .text.setup    0x0000000000000000      0x1cc build/DebugWire/production/main.o
+                0x0000000000000000       0x3e build/DebugWire/debug/main.o
+ .text.setup    0x0000000000000000      0x1cc build/DebugWire/debug/main.o
  .data.test.2862
-                0x0000000000000000        0x1 build/DebugWire/production/main.o
- .text          0x0000000000000000        0x0 build/DebugWire/production/ssd1306.o
- .data          0x0000000000000000        0x0 build/DebugWire/production/ssd1306.o
- .bss           0x0000000000000000        0x0 build/DebugWire/production/ssd1306.o
+                0x0000000000000000        0x1 build/DebugWire/debug/main.o
+ .text          0x0000000000000000        0x0 build/DebugWire/debug/ssd1306.o
+ .data          0x0000000000000000        0x0 build/DebugWire/debug/ssd1306.o
+ .bss           0x0000000000000000        0x0 build/DebugWire/debug/ssd1306.o
  progmem.data.INIT_SSD1306
-                0x0000000000000000       0x2c build/DebugWire/production/ssd1306.o
+                0x0000000000000000       0x2c build/DebugWire/debug/ssd1306.o
  .text.SSD1306_Init
-                0x0000000000000000      0x200 build/DebugWire/production/ssd1306.o
+                0x0000000000000000      0x200 build/DebugWire/debug/ssd1306.o
  .text.SSD1306_NormalScreen
-                0x0000000000000000       0x40 build/DebugWire/production/ssd1306.o
+                0x0000000000000000       0x40 build/DebugWire/debug/ssd1306.o
  .text.SSD1306_InverseScreen
-                0x0000000000000000       0x40 build/DebugWire/production/ssd1306.o
+                0x0000000000000000       0x40 build/DebugWire/debug/ssd1306.o
  .text.SSD1306_ClearScreen
-                0x0000000000000000       0xee build/DebugWire/production/ssd1306.o
+                0x0000000000000000       0xee build/DebugWire/debug/ssd1306.o
  .text.SSD1306_ClearPage
-                0x0000000000000000       0xf2 build/DebugWire/production/ssd1306.o
+                0x0000000000000000       0xf2 build/DebugWire/debug/ssd1306.o
  .text.SSD1306_ClearPageFromToEnd
-                0x0000000000000000      0x13a build/DebugWire/production/ssd1306.o
+                0x0000000000000000      0x13a build/DebugWire/debug/ssd1306.o
  .text.SSD1306_DrawLineVertical
-                0x0000000000000000      0x118 build/DebugWire/production/ssd1306.o
+                0x0000000000000000      0x118 build/DebugWire/debug/ssd1306.o
  .text.SSD1306_DrawLineHorizontal
-                0x0000000000000000      0x130 build/DebugWire/production/ssd1306.o
+                0x0000000000000000      0x130 build/DebugWire/debug/ssd1306.o
  .text.SSD1306_HorizontalScroll
-                0x0000000000000000       0xcc build/DebugWire/production/ssd1306.o
+                0x0000000000000000       0xcc build/DebugWire/debug/ssd1306.o
  .text.SSD1306_HorizontalScrollStop
-                0x0000000000000000       0x44 build/DebugWire/production/ssd1306.o
- .text          0x0000000000000000        0x0 build/DebugWire/production/twi.o
- .data          0x0000000000000000        0x0 build/DebugWire/production/twi.o
- .bss           0x0000000000000000        0x0 build/DebugWire/production/twi.o
+                0x0000000000000000       0x44 build/DebugWire/debug/ssd1306.o
+ .text          0x0000000000000000        0x0 build/DebugWire/debug/twi.o
+ .data          0x0000000000000000        0x0 build/DebugWire/debug/twi.o
+ .bss           0x0000000000000000        0x0 build/DebugWire/debug/twi.o
  .text.TWI_Init
-                0x0000000000000000       0x44 build/DebugWire/production/twi.o
+                0x0000000000000000       0x44 build/DebugWire/debug/twi.o
  .text.TWI_MR_Send_SLAR
-                0x0000000000000000       0x80 build/DebugWire/production/twi.o
- .text          0x0000000000000000        0x0 build/DebugWire/production/Timer.o
- .data          0x0000000000000000        0x0 build/DebugWire/production/Timer.o
- .bss           0x0000000000000000        0x0 build/DebugWire/production/Timer.o
+                0x0000000000000000       0x80 build/DebugWire/debug/twi.o
+ .text          0x0000000000000000        0x0 build/DebugWire/debug/Timer.o
+ .data          0x0000000000000000        0x0 build/DebugWire/debug/Timer.o
+ .bss           0x0000000000000000        0x0 build/DebugWire/debug/Timer.o
  .data.Timer_PrescalerBitValues
-                0x0000000000000000       0x14 build/DebugWire/production/Timer.o
+                0x0000000000000000       0x14 build/DebugWire/debug/Timer.o
  .text.GetBitValuesForClockSelect
-                0x0000000000000000       0x6e build/DebugWire/production/Timer.o
- .debug_info    0x0000000000000000      0x31c build/DebugWire/production/Timer.o
- .debug_abbrev  0x0000000000000000       0x7a build/DebugWire/production/Timer.o
+                0x0000000000000000       0x6e build/DebugWire/debug/Timer.o
+ .debug_info    0x0000000000000000      0x329 build/DebugWire/debug/Timer.o
+ .debug_abbrev  0x0000000000000000       0x7a build/DebugWire/debug/Timer.o
  .debug_aranges
-                0x0000000000000000       0x20 build/DebugWire/production/Timer.o
- .debug_ranges  0x0000000000000000       0x10 build/DebugWire/production/Timer.o
- .debug_line    0x0000000000000000       0xad build/DebugWire/production/Timer.o
- .debug_str     0x0000000000000000        0x0 build/DebugWire/production/Timer.o
- .comment       0x0000000000000000       0x30 build/DebugWire/production/Timer.o
- .debug_frame   0x0000000000000000       0x34 build/DebugWire/production/Timer.o
- .text          0x0000000000000000        0x0 build/DebugWire/production/Timer0.o
- .data          0x0000000000000000        0x0 build/DebugWire/production/Timer0.o
- .bss           0x0000000000000000        0x0 build/DebugWire/production/Timer0.o
+                0x0000000000000000       0x20 build/DebugWire/debug/Timer.o
+ .debug_ranges  0x0000000000000000       0x10 build/DebugWire/debug/Timer.o
+ .debug_line    0x0000000000000000       0xad build/DebugWire/debug/Timer.o
+ .debug_str     0x0000000000000000        0x0 build/DebugWire/debug/Timer.o
+ .comment       0x0000000000000000       0x30 build/DebugWire/debug/Timer.o
+ .debug_frame   0x0000000000000000       0x34 build/DebugWire/debug/Timer.o
+ .text          0x0000000000000000        0x0 build/DebugWire/debug/Timer0.o
+ .data          0x0000000000000000        0x0 build/DebugWire/debug/Timer0.o
+ .bss           0x0000000000000000        0x0 build/DebugWire/debug/Timer0.o
  .text.Setup_Timer0_Overflow_Interrupt
-                0x0000000000000000       0x80 build/DebugWire/production/Timer0.o
+                0x0000000000000000       0x80 build/DebugWire/debug/Timer0.o
  .text.Enable_Timer0_Overflow_Interrupt
-                0x0000000000000000       0x22 build/DebugWire/production/Timer0.o
+                0x0000000000000000       0x22 build/DebugWire/debug/Timer0.o
  .text.Disable_Timer0_Overflow_Interrupt
-                0x0000000000000000       0x22 build/DebugWire/production/Timer0.o
- .text          0x0000000000000000        0x0 build/DebugWire/production/UART.o
- .data          0x0000000000000000        0x0 build/DebugWire/production/UART.o
- .bss           0x0000000000000000        0x0 build/DebugWire/production/UART.o
+                0x0000000000000000       0x22 build/DebugWire/debug/Timer0.o
+ .text          0x0000000000000000        0x0 build/DebugWire/debug/UART.o
+ .data          0x0000000000000000        0x0 build/DebugWire/debug/UART.o
+ .bss           0x0000000000000000        0x0 build/DebugWire/debug/UART.o
  .data.uart_output
-                0x0000000000000000       0x10 build/DebugWire/production/UART.o
+                0x0000000000000000       0x10 build/DebugWire/debug/UART.o
  .text.SetupUARTFunctionCallbackPointer
-                0x0000000000000000       0x26 build/DebugWire/production/UART.o
+                0x0000000000000000       0x26 build/DebugWire/debug/UART.o
  .text.RS232Init
-                0x0000000000000000       0x42 build/DebugWire/production/UART.o
+                0x0000000000000000       0x42 build/DebugWire/debug/UART.o
  .text.SetupOutputStreamToUart
-                0x0000000000000000       0x22 build/DebugWire/production/UART.o
+                0x0000000000000000       0x22 build/DebugWire/debug/UART.o
  .text.uart_putch
-                0x0000000000000000       0x42 build/DebugWire/production/UART.o
+                0x0000000000000000       0x42 build/DebugWire/debug/UART.o
  .text.Enable_UART_Receive_Interrupt
-                0x0000000000000000       0x22 build/DebugWire/production/UART.o
+                0x0000000000000000       0x22 build/DebugWire/debug/UART.o
  .text.Disable_UART_Receive_Interupt
-                0x0000000000000000       0x22 build/DebugWire/production/UART.o
- .text          0x0000000000000000        0x0 build/DebugWire/production/ExternalInterrupt.o
- .data          0x0000000000000000        0x0 build/DebugWire/production/ExternalInterrupt.o
- .bss           0x0000000000000000        0x0 build/DebugWire/production/ExternalInterrupt.o
+                0x0000000000000000       0x22 build/DebugWire/debug/UART.o
+ .text          0x0000000000000000        0x0 build/DebugWire/debug/ExternalInterrupt.o
+ .data          0x0000000000000000        0x0 build/DebugWire/debug/ExternalInterrupt.o
+ .bss           0x0000000000000000        0x0 build/DebugWire/debug/ExternalInterrupt.o
  .text.AttachAndEnableExternalInterrupt
-                0x0000000000000000       0xe2 build/DebugWire/production/ExternalInterrupt.o
+                0x0000000000000000       0xe2 build/DebugWire/debug/ExternalInterrupt.o
  .text.DetachAndDisableExternalInterrupt
-                0x0000000000000000       0x98 build/DebugWire/production/ExternalInterrupt.o
+                0x0000000000000000       0x98 build/DebugWire/debug/ExternalInterrupt.o
  .text          0x0000000000000000        0xa c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
  .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
  .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
@@ -582,16 +582,18 @@ Linker script and memory map
 Address of section .data set to 0x800100
 LOAD C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega328pb.o
                 0x0000000000000001                __MPLAB_BUILD = 0x1
-LOAD build/DebugWire/production/main.o
-LOAD build/DebugWire/production/ssd1306.o
-LOAD build/DebugWire/production/twi.o
-LOAD build/DebugWire/production/Timer.o
-LOAD build/DebugWire/production/Timer0.o
-LOAD build/DebugWire/production/UART.o
-LOAD build/DebugWire/production/ExternalInterrupt.o
+LOAD build/DebugWire/debug/main.o
+LOAD build/DebugWire/debug/ssd1306.o
+LOAD build/DebugWire/debug/twi.o
+LOAD build/DebugWire/debug/Timer.o
+LOAD build/DebugWire/debug/Timer0.o
+LOAD build/DebugWire/debug/UART.o
+LOAD build/DebugWire/debug/ExternalInterrupt.o
 START GROUP
 LOAD c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
 END GROUP
+                0x0000000000000001                __MPLAB_DEBUG = 0x1
+                0x0000000000000001                __DEBUG = 0x1
 START GROUP
 LOAD c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
 LOAD c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
@@ -848,13 +850,13 @@ END GROUP
 
 .comment        0x0000000000000000       0x5b
  *(.comment)
- .comment       0x0000000000000000       0x2f build/DebugWire/production/main.o
+ .comment       0x0000000000000000       0x2f build/DebugWire/debug/main.o
                                          0x30 (size before relaxing)
- .comment       0x000000000000002f       0x30 build/DebugWire/production/ssd1306.o
- .comment       0x000000000000002f       0x30 build/DebugWire/production/twi.o
- .comment       0x000000000000002f       0x30 build/DebugWire/production/Timer0.o
- .comment       0x000000000000002f       0x30 build/DebugWire/production/UART.o
- .comment       0x000000000000002f       0x30 build/DebugWire/production/ExternalInterrupt.o
+ .comment       0x000000000000002f       0x30 build/DebugWire/debug/ssd1306.o
+ .comment       0x000000000000002f       0x30 build/DebugWire/debug/twi.o
+ .comment       0x000000000000002f       0x30 build/DebugWire/debug/Timer0.o
+ .comment       0x000000000000002f       0x30 build/DebugWire/debug/UART.o
+ .comment       0x000000000000002f       0x30 build/DebugWire/debug/ExternalInterrupt.o
  .comment       0x000000000000002f       0x2c c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
                                          0x2d (size before relaxing)
  .comment       0x000000000000005b       0x2d c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__sio_printf_dosux.o)
@@ -985,69 +987,69 @@ END GROUP
 .debug_aranges  0x0000000000000000      0x218
  *(.debug_aranges)
  .debug_aranges
-                0x0000000000000000       0x68 build/DebugWire/production/main.o
+                0x0000000000000000       0x68 build/DebugWire/debug/main.o
  .debug_aranges
-                0x0000000000000068       0xa0 build/DebugWire/production/ssd1306.o
+                0x0000000000000068       0xa0 build/DebugWire/debug/ssd1306.o
  .debug_aranges
-                0x0000000000000108       0x48 build/DebugWire/production/twi.o
+                0x0000000000000108       0x48 build/DebugWire/debug/twi.o
  .debug_aranges
-                0x0000000000000150       0x38 build/DebugWire/production/Timer0.o
+                0x0000000000000150       0x38 build/DebugWire/debug/Timer0.o
  .debug_aranges
-                0x0000000000000188       0x50 build/DebugWire/production/UART.o
+                0x0000000000000188       0x50 build/DebugWire/debug/UART.o
  .debug_aranges
-                0x00000000000001d8       0x40 build/DebugWire/production/ExternalInterrupt.o
+                0x00000000000001d8       0x40 build/DebugWire/debug/ExternalInterrupt.o
 
 .debug_pubnames
  *(.debug_pubnames)
 
-.debug_info     0x0000000000000000     0x3497
+.debug_info     0x0000000000000000     0x34e5
  *(.debug_info .gnu.linkonce.wi.*)
  .debug_info    0x0000000000000000      0x8ea C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega328pb.o
- .debug_info    0x00000000000008ea      0xc95 build/DebugWire/production/main.o
- .debug_info    0x000000000000157f      0xc35 build/DebugWire/production/ssd1306.o
- .debug_info    0x00000000000021b4      0x3a6 build/DebugWire/production/twi.o
- .debug_info    0x000000000000255a      0x44e build/DebugWire/production/Timer0.o
- .debug_info    0x00000000000029a8      0x568 build/DebugWire/production/UART.o
- .debug_info    0x0000000000002f10      0x587 build/DebugWire/production/ExternalInterrupt.o
+ .debug_info    0x00000000000008ea      0xca2 build/DebugWire/debug/main.o
+ .debug_info    0x000000000000158c      0xc42 build/DebugWire/debug/ssd1306.o
+ .debug_info    0x00000000000021ce      0x3b3 build/DebugWire/debug/twi.o
+ .debug_info    0x0000000000002581      0x45b build/DebugWire/debug/Timer0.o
+ .debug_info    0x00000000000029dc      0x575 build/DebugWire/debug/UART.o
+ .debug_info    0x0000000000002f51      0x594 build/DebugWire/debug/ExternalInterrupt.o
 
 .debug_abbrev   0x0000000000000000      0xf2b
  *(.debug_abbrev)
  .debug_abbrev  0x0000000000000000      0x86e C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega328pb.o
- .debug_abbrev  0x000000000000086e      0x144 build/DebugWire/production/main.o
- .debug_abbrev  0x00000000000009b2      0x19c build/DebugWire/production/ssd1306.o
- .debug_abbrev  0x0000000000000b4e       0x89 build/DebugWire/production/twi.o
- .debug_abbrev  0x0000000000000bd7       0xba build/DebugWire/production/Timer0.o
- .debug_abbrev  0x0000000000000c91      0x17e build/DebugWire/production/UART.o
- .debug_abbrev  0x0000000000000e0f      0x11c build/DebugWire/production/ExternalInterrupt.o
+ .debug_abbrev  0x000000000000086e      0x144 build/DebugWire/debug/main.o
+ .debug_abbrev  0x00000000000009b2      0x19c build/DebugWire/debug/ssd1306.o
+ .debug_abbrev  0x0000000000000b4e       0x89 build/DebugWire/debug/twi.o
+ .debug_abbrev  0x0000000000000bd7       0xba build/DebugWire/debug/Timer0.o
+ .debug_abbrev  0x0000000000000c91      0x17e build/DebugWire/debug/UART.o
+ .debug_abbrev  0x0000000000000e0f      0x11c build/DebugWire/debug/ExternalInterrupt.o
 
 .debug_line     0x0000000000000000     0x1735
  *(.debug_line .debug_line.* .debug_line_end)
  .debug_line    0x0000000000000000      0x1a6 C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega328pb.o
- .debug_line    0x00000000000001a6      0x35a build/DebugWire/production/main.o
- .debug_line    0x0000000000000500      0xb94 build/DebugWire/production/ssd1306.o
- .debug_line    0x0000000000001094      0x1f3 build/DebugWire/production/twi.o
- .debug_line    0x0000000000001287      0x134 build/DebugWire/production/Timer0.o
- .debug_line    0x00000000000013bb      0x1d1 build/DebugWire/production/UART.o
- .debug_line    0x000000000000158c      0x1a9 build/DebugWire/production/ExternalInterrupt.o
+ .debug_line    0x00000000000001a6      0x35a build/DebugWire/debug/main.o
+ .debug_line    0x0000000000000500      0xb94 build/DebugWire/debug/ssd1306.o
+ .debug_line    0x0000000000001094      0x1f3 build/DebugWire/debug/twi.o
+ .debug_line    0x0000000000001287      0x134 build/DebugWire/debug/Timer0.o
+ .debug_line    0x00000000000013bb      0x1d1 build/DebugWire/debug/UART.o
+ .debug_line    0x000000000000158c      0x1a9 build/DebugWire/debug/ExternalInterrupt.o
 
 .debug_frame    0x0000000000000000      0x7b4
  *(.debug_frame)
- .debug_frame   0x0000000000000000      0x15c build/DebugWire/production/main.o
- .debug_frame   0x000000000000015c      0x234 build/DebugWire/production/ssd1306.o
- .debug_frame   0x0000000000000390       0xd4 build/DebugWire/production/twi.o
- .debug_frame   0x0000000000000464       0xd8 build/DebugWire/production/Timer0.o
- .debug_frame   0x000000000000053c      0x13c build/DebugWire/production/UART.o
- .debug_frame   0x0000000000000678      0x13c build/DebugWire/production/ExternalInterrupt.o
+ .debug_frame   0x0000000000000000      0x15c build/DebugWire/debug/main.o
+ .debug_frame   0x000000000000015c      0x234 build/DebugWire/debug/ssd1306.o
+ .debug_frame   0x0000000000000390       0xd4 build/DebugWire/debug/twi.o
+ .debug_frame   0x0000000000000464       0xd8 build/DebugWire/debug/Timer0.o
+ .debug_frame   0x000000000000053c      0x13c build/DebugWire/debug/UART.o
+ .debug_frame   0x0000000000000678      0x13c build/DebugWire/debug/ExternalInterrupt.o
 
 .debug_str      0x0000000000000000      0x39e
  *(.debug_str)
  .debug_str     0x0000000000000000      0x318 C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega328pb.o
- .debug_str     0x0000000000000318       0x25 build/DebugWire/production/main.o
- .debug_str     0x000000000000033d       0x21 build/DebugWire/production/ssd1306.o
- .debug_str     0x000000000000035e        0x8 build/DebugWire/production/twi.o
- .debug_str     0x0000000000000366        0x0 build/DebugWire/production/Timer0.o
- .debug_str     0x0000000000000366        0x0 build/DebugWire/production/UART.o
- .debug_str     0x0000000000000366       0x38 build/DebugWire/production/ExternalInterrupt.o
+ .debug_str     0x0000000000000318       0x25 build/DebugWire/debug/main.o
+ .debug_str     0x000000000000033d       0x21 build/DebugWire/debug/ssd1306.o
+ .debug_str     0x000000000000035e        0x8 build/DebugWire/debug/twi.o
+ .debug_str     0x0000000000000366        0x0 build/DebugWire/debug/Timer0.o
+ .debug_str     0x0000000000000366        0x0 build/DebugWire/debug/UART.o
+ .debug_str     0x0000000000000366       0x38 build/DebugWire/debug/ExternalInterrupt.o
 
 .debug_loc
  *(.debug_loc)
@@ -1072,16 +1074,16 @@ END GROUP
 
 .debug_ranges   0x0000000000000000      0x1b8
  *(.debug_ranges)
- .debug_ranges  0x0000000000000000       0x58 build/DebugWire/production/main.o
- .debug_ranges  0x0000000000000058       0x90 build/DebugWire/production/ssd1306.o
- .debug_ranges  0x00000000000000e8       0x38 build/DebugWire/production/twi.o
- .debug_ranges  0x0000000000000120       0x28 build/DebugWire/production/Timer0.o
- .debug_ranges  0x0000000000000148       0x40 build/DebugWire/production/UART.o
- .debug_ranges  0x0000000000000188       0x30 build/DebugWire/production/ExternalInterrupt.o
+ .debug_ranges  0x0000000000000000       0x58 build/DebugWire/debug/main.o
+ .debug_ranges  0x0000000000000058       0x90 build/DebugWire/debug/ssd1306.o
+ .debug_ranges  0x00000000000000e8       0x38 build/DebugWire/debug/twi.o
+ .debug_ranges  0x0000000000000120       0x28 build/DebugWire/debug/Timer0.o
+ .debug_ranges  0x0000000000000148       0x40 build/DebugWire/debug/UART.o
+ .debug_ranges  0x0000000000000188       0x30 build/DebugWire/debug/ExternalInterrupt.o
 
 .debug_macro
  *(.debug_macro)
-OUTPUT(dist/DebugWire/production/DisplayTest.X.production.elf elf32-avr)
+OUTPUT(dist/DebugWire/debug/DisplayTest.X.debug.elf elf32-avr)
 LOAD linker stubs
 LOAD data_init
 
@@ -1093,70 +1095,70 @@ LOAD data_init
 .bss.PrintOutInfo
                 0x0000000000800399        0x1
  .bss.PrintOutInfo
-                0x0000000000800399        0x1 build/DebugWire/production/main.o
+                0x0000000000800399        0x1 build/DebugWire/debug/main.o
 
 .bss.I2CDisplayStatusOperation
                 0x000000000080039a        0x1
  .bss.I2CDisplayStatusOperation
-                0x000000000080039a        0x1 build/DebugWire/production/main.o
+                0x000000000080039a        0x1 build/DebugWire/debug/main.o
 
 .bss.NumberOfTimerInterrupts
                 0x000000000080037f        0x4
  .bss.NumberOfTimerInterrupts
-                0x000000000080037f        0x4 build/DebugWire/production/main.o
+                0x000000000080037f        0x4 build/DebugWire/debug/main.o
 
 .bss.NumberOfExternalInterruptsOnPin0
                 0x0000000000800387        0x2
  .bss.NumberOfExternalInterruptsOnPin0
-                0x0000000000800387        0x2 build/DebugWire/production/main.o
+                0x0000000000800387        0x2 build/DebugWire/debug/main.o
 
 .bss.TimerCounterString
                 0x000000000080036d        0x6
  .bss.TimerCounterString
-                0x000000000080036d        0x6 build/DebugWire/production/main.o
+                0x000000000080036d        0x6 build/DebugWire/debug/main.o
                 0x000000000080036d                TimerCounterString
 
 .bss.InterruptCounterString
                 0x0000000000800373        0x6
  .bss.InterruptCounterString
-                0x0000000000800373        0x6 build/DebugWire/production/main.o
+                0x0000000000800373        0x6 build/DebugWire/debug/main.o
                 0x0000000000800373                InterruptCounterString
 
 .bss._indexCol  0x0000000000800389        0x2
  .bss._indexCol
-                0x0000000000800389        0x2 build/DebugWire/production/ssd1306.o
+                0x0000000000800389        0x2 build/DebugWire/debug/ssd1306.o
                 0x0000000000800389                _indexCol
 
 .bss._indexPage
                 0x000000000080038b        0x2
  .bss._indexPage
-                0x000000000080038b        0x2 build/DebugWire/production/ssd1306.o
+                0x000000000080038b        0x2 build/DebugWire/debug/ssd1306.o
                 0x000000000080038b                _indexPage
 
 .bss.Timer0OverflowValue
                 0x000000000080038d        0x2
  .bss.Timer0OverflowValue
-                0x000000000080038d        0x2 build/DebugWire/production/Timer0.o
+                0x000000000080038d        0x2 build/DebugWire/debug/Timer0.o
 
 .bss.Timer0OverflowCounter
                 0x000000000080038f        0x2
  .bss.Timer0OverflowCounter
-                0x000000000080038f        0x2 build/DebugWire/production/Timer0.o
+                0x000000000080038f        0x2 build/DebugWire/debug/Timer0.o
 
 .bss.Callback_Function_Pointer
                 0x0000000000800391        0x2
  .bss.Callback_Function_Pointer
-                0x0000000000800391        0x2 build/DebugWire/production/Timer0.o
+                0x0000000000800391        0x2 build/DebugWire/debug/Timer0.o
 
 .bss.NumberOfTimer0OverflowInterrupts
                 0x0000000000800383        0x4
  .bss.NumberOfTimer0OverflowInterrupts
-                0x0000000000800383        0x4 build/DebugWire/production/Timer0.o
+                0x0000000000800383        0x4 build/DebugWire/debug/Timer0.o
 
 .bss.Callback_Function_Pointer
                 0x0000000000800393        0x2
  .bss.Callback_Function_Pointer
-                0x0000000000800393        0x2 build/DebugWire/production/UART.o
+                0x0000000000800393        0x2 build/DebugWire/debug/UART.o
 
 .bss.__stdout   0x0000000000800397        0x2
  .bss.__stdout  0x0000000000800397        0x2 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(stdout.o)
@@ -1164,7 +1166,7 @@ LOAD data_init
 progmem.data.FONTS
                 0x0000000000000132      0x1e0
  progmem.data.FONTS
-                0x0000000000000132      0x1e0 build/DebugWire/production/ssd1306.o
+                0x0000000000000132      0x1e0 build/DebugWire/debug/ssd1306.o
 
 .text.vfpfcnvrt
                 0x0000000000000312      0x3fc
@@ -1175,7 +1177,7 @@ progmem.data.FONTS
 .text.SSD1306_DrawChar
                 0x000000000000070e      0x234
  .text.SSD1306_DrawChar
-                0x000000000000070e      0x234 build/DebugWire/production/ssd1306.o
+                0x000000000000070e      0x234 build/DebugWire/debug/ssd1306.o
                 0x000000000000070e                SSD1306_DrawChar
 
 .text.__fmt_x   0x0000000000000942      0x1dc
@@ -1184,7 +1186,7 @@ progmem.data.FONTS
                 0x0000000000000942                __fmt_x
 
 .text.main      0x0000000000000b1e      0x136
- .text.main     0x0000000000000b1e      0x136 build/DebugWire/production/main.o
+ .text.main     0x0000000000000b1e      0x136 build/DebugWire/debug/main.o
                 0x0000000000000b1e                main
 
 .text.__fmt_d   0x0000000000000c54       0xe4
@@ -1195,7 +1197,7 @@ progmem.data.FONTS
 .text.__vector_16
                 0x0000000000000d38       0xdc
  .text.__vector_16
-                0x0000000000000d38       0xdc build/DebugWire/production/Timer0.o
+                0x0000000000000d38       0xdc build/DebugWire/debug/Timer0.o
                 0x0000000000000d38                __vector_16
 
 .text.__pop_int
@@ -1208,7 +1210,7 @@ progmem.data.FONTS
 .text.SSD1306_SetWindow
                 0x0000000000000ee4       0xca
  .text.SSD1306_SetWindow
-                0x0000000000000ee4       0xca build/DebugWire/production/ssd1306.o
+                0x0000000000000ee4       0xca build/DebugWire/debug/ssd1306.o
                 0x0000000000000ee4                SSD1306_SetWindow
 
 .text.__cvt_u   0x0000000000000fae       0xca
@@ -1233,31 +1235,31 @@ progmem.data.FONTS
 .text.TWI_MT_Start
                 0x0000000000001250       0x8a
  .text.TWI_MT_Start
-                0x0000000000001250       0x8a build/DebugWire/production/twi.o
+                0x0000000000001250       0x8a build/DebugWire/debug/twi.o
                 0x0000000000001250                TWI_MT_Start
 
 .text.SSD1306_UpdatePosition
                 0x00000000000012da       0x7a
  .text.SSD1306_UpdatePosition
-                0x00000000000012da       0x7a build/DebugWire/production/ssd1306.o
+                0x00000000000012da       0x7a build/DebugWire/debug/ssd1306.o
                 0x00000000000012da                SSD1306_UpdatePosition
 
 .text.__vector_18
                 0x0000000000001354       0x7a
  .text.__vector_18
-                0x0000000000001354       0x7a build/DebugWire/production/UART.o
+                0x0000000000001354       0x7a build/DebugWire/debug/UART.o
                 0x0000000000001354                __vector_18
 
 .text.__vector_1
                 0x00000000000013ce       0x78
  .text.__vector_1
-                0x00000000000013ce       0x78 build/DebugWire/production/ExternalInterrupt.o
+                0x00000000000013ce       0x78 build/DebugWire/debug/ExternalInterrupt.o
                 0x00000000000013ce                __vector_1
 
 .text.__vector_2
                 0x0000000000001446       0x78
  .text.__vector_2
-                0x0000000000001446       0x78 build/DebugWire/production/ExternalInterrupt.o
+                0x0000000000001446       0x78 build/DebugWire/debug/ExternalInterrupt.o
                 0x0000000000001446                __vector_2
 
 .text.__printf_core
@@ -1269,13 +1271,13 @@ progmem.data.FONTS
 .text.TWI_MT_Send_SLAW
                 0x0000000000001536       0x76
  .text.TWI_MT_Send_SLAW
-                0x0000000000001536       0x76 build/DebugWire/production/twi.o
+                0x0000000000001536       0x76 build/DebugWire/debug/twi.o
                 0x0000000000001536                TWI_MT_Send_SLAW
 
 .text.TWI_MT_Send_Data
                 0x00000000000015ac       0x74
  .text.TWI_MT_Send_Data
-                0x00000000000015ac       0x74 build/DebugWire/production/twi.o
+                0x00000000000015ac       0x74 build/DebugWire/debug/twi.o
                 0x00000000000015ac                TWI_MT_Send_Data
 
 .text.__vsnprintf
@@ -1296,7 +1298,7 @@ progmem.data.FONTS
 .text.SSD1306_DrawString
                 0x0000000000001762       0x5a
  .text.SSD1306_DrawString
-                0x0000000000001762       0x5a build/DebugWire/production/ssd1306.o
+                0x0000000000001762       0x5a build/DebugWire/debug/ssd1306.o
                 0x0000000000001762                SSD1306_DrawString
 
 .text.__fmt_s   0x00000000000017bc       0x54
@@ -1308,7 +1310,7 @@ progmem.data.FONTS
 .text.SSD1306_SetPosition
                 0x0000000000001810       0x48
  .text.SSD1306_SetPosition
-                0x0000000000001810       0x48 build/DebugWire/production/ssd1306.o
+                0x0000000000001810       0x48 build/DebugWire/debug/ssd1306.o
                 0x0000000000001810                SSD1306_SetPosition
 
 .text.libgcc.div
@@ -1320,7 +1322,7 @@ progmem.data.FONTS
 .text.SSD1306_Send_Command
                 0x000000000000189c       0x40
  .text.SSD1306_Send_Command
-                0x000000000000189c       0x40 build/DebugWire/production/ssd1306.o
+                0x000000000000189c       0x40 build/DebugWire/debug/ssd1306.o
                 0x000000000000189c                SSD1306_Send_Command
 
 .text.__fmt_state
@@ -1332,7 +1334,7 @@ progmem.data.FONTS
 .text.SSD1306_Send_StartAndSLAW
                 0x000000000000191c       0x3e
  .text.SSD1306_Send_StartAndSLAW
-                0x000000000000191c       0x3e build/DebugWire/production/ssd1306.o
+                0x000000000000191c       0x3e build/DebugWire/debug/ssd1306.o
                 0x000000000000191c                SSD1306_Send_StartAndSLAW
 
 .text.__out     0x000000000000195a       0x3a
@@ -1372,7 +1374,7 @@ progmem.data.FONTS
 .text.__vector_24
                 0x0000000000001a86       0x22
  .text.__vector_24
-                0x0000000000001a86       0x22 build/DebugWire/production/main.o
+                0x0000000000001a86       0x22 build/DebugWire/debug/main.o
                 0x0000000000001a86                __vector_24
 
 .text.strlen    0x0000000000001aa8       0x1c
@@ -1381,13 +1383,13 @@ progmem.data.FONTS
 
 .text.TWI_Stop  0x0000000000001ac4       0x1a
  .text.TWI_Stop
-                0x0000000000001ac4       0x1a build/DebugWire/production/twi.o
+                0x0000000000001ac4       0x1a build/DebugWire/debug/twi.o
                 0x0000000000001ac4                TWI_Stop
 
 .text.NoCallbackIsPerformedOnExternalInterrupt
                 0x0000000000001ade       0x1a
  .text.NoCallbackIsPerformedOnExternalInterrupt
-                0x0000000000001ade       0x1a build/DebugWire/production/ExternalInterrupt.o
+                0x0000000000001ade       0x1a build/DebugWire/debug/ExternalInterrupt.o
 
 .text.exit      0x0000000000001af8       0x16
  .text.exit     0x0000000000001af8       0x16 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
@@ -1473,7 +1475,7 @@ progmem.data.FONTS
                 0x0000000000001b4a                __simulator_exit
 
 .rodata         0x0000000000800102      0x246 load address 0x0000000000001b4c
- .rodata        0x0000000000800102      0x246 build/DebugWire/production/main.o
+ .rodata        0x0000000000800102      0x246 build/DebugWire/debug/main.o
 
 .rodata.state_table
                 0x0000000000800348       0x16 load address 0x0000000000001d92
@@ -1483,7 +1485,7 @@ progmem.data.FONTS
 .data.ExternalInterruptCallbackStructArray
                 0x000000000080035e        0x8 load address 0x0000000000001da8
  .data.ExternalInterruptCallbackStructArray
-                0x000000000080035e        0x8 build/DebugWire/production/ExternalInterrupt.o
+                0x000000000080035e        0x8 build/DebugWire/debug/ExternalInterrupt.o
 
 .rodata.nuls.2781
                 0x0000000000800366        0x7 load address 0x0000000000001db0
